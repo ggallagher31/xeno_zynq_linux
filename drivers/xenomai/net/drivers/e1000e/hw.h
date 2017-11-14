@@ -1,0 +1,1 @@
+/home/ggallagher/devel/emb_linux/xenomai-3/kernel/drivers/net/drivers/e1000e/hw.h
